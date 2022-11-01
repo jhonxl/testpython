@@ -1,3 +1,5 @@
+#Um "teste de calorias" com poucos alimentos listados, neles são: Pizza, Hamburguer, Frango, Banana, Maçã, Laranja e Pêra.
+
 print('Possui calorias ou não?')
 print('Esse é um medidor básico de calorias, poucos alimentos estão listados.')
 comida = input('Escreva o nome de um alimento: ')
